@@ -58,3 +58,24 @@
         text-shadow: 4px 4px 2px #bfeed1;
     }
 }
+
+.response-login {
+    margin-top: 8%;
+}
+
+.card-error {
+    background: #f8d7da;
+    color:#dc3545;
+}
+
+.card-success {
+    background: #d1e7dd;
+    color:#5eab87;
+}
+
+.card {
+    border-radius: 10px;
+    padding: 5px;
+    width: 60%;
+    margin: auto;
+}
